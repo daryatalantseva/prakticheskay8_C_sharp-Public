@@ -1,6 +1,6 @@
 ﻿//Задача 54: Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию элементы каждой строки двумерного массива.
 
-Console.Clear();
+
 Console.WriteLine("Введите размер массива m x n");
 int m  = Convert.ToInt32(Console.ReadLine());
 int n  = Convert.ToInt32(Console.ReadLine());
